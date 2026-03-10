@@ -1,0 +1,5 @@
+module libbrotlicommon {
+    umbrella header "../libbrotlicommon.h"
+    export *
+    module * { export * }
+}

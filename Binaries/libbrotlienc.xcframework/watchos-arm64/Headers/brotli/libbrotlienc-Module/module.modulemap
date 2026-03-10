@@ -1,0 +1,5 @@
+module libbrotlienc {
+    umbrella header "../libbrotlienc.h"
+    export *
+    module * { export * }
+}

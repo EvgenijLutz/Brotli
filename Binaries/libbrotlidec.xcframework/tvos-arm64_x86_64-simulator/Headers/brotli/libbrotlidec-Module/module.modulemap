@@ -1,0 +1,5 @@
+module libbrotlidec {
+    umbrella header "../libbrotlidec.h"
+    export *
+    module * { export * }
+}
